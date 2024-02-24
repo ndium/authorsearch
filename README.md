@@ -5,6 +5,8 @@ AuthorSearch is a Flutter application that allows users to search for authors an
 ## Screenshots
 
 ![AuthorSearch Screenshot](authorsearch.png)
+
+Example : Works list of JK Rowling
 ![AuthorSearch Screenshot](workslistJkRowling.png)
 
 ## Installation
