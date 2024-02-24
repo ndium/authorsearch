@@ -1,16 +1,16 @@
-# authorsearch
+# AuthorSearch
 
-A new Flutter project.
+AuthorSearch is a Flutter application that allows users to search for authors and explore their works.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![AuthorSearch Screenshot](.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed on your machine. If not, follow the installation instructions for Flutter from [the official Flutter website](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository to your machine.
+
+   ```bash
+   git clone https://github.com/ndium/authorsearch.git
